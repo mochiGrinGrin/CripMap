@@ -47,14 +47,14 @@ Altキー...各矩形の頂点を表示．
 
 ## Install
 必要なソフトウェア
-*Processing ver3.0以上
-*Quick time
+* Processing ver3.0以上
+* Quick time
 
 
 必要なライブラリ
 Processingをインストールした後，一部の外部ライブラリをインストールする必要があります．
 Processing起動後の上部メニュー->スケッチ->ライブラリをインポート->ライブラリの追加　から下記のライブラリを検索してインストールしてください．
 
-*ControlP5
-*The MIDIbus
+* ControlP5
+* The MIDIbus
 
