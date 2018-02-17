@@ -21,11 +21,6 @@
 <img src="img/2.png" width="240px" alt="変形後の様子">
 <img src="img/3.gif" width="240px" alt="投影時の様子">
 
-![元の動画ファイル](img/1.png)
-![変形後の様子](img/2.png)
-![投影時の様子](img/3.gif)
-
-
 ## Usage
 CripMap.pdeファイルがメインクラスです．CripMap.pdeをprocessingで開いて，実行ボタンもしくはCtrl + rで起動します．
 使用する動画ファイルはdataフォルダに保存して，ファイル名を変数"file0"~"file9"に指定してください．
