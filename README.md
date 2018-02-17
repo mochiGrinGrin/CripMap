@@ -17,6 +17,10 @@
 
 
 ## Demo
+<img src="img/1.png" width="240px" alt="元の動画ファイル">
+<img src="img/2.png" width="240px" alt="変形後の様子">
+<img src="img/3.gif" width="240px" alt="投影時の様子">
+
 ![元の動画ファイル](img/1.png)
 ![変形後の様子](img/2.png)
 ![投影時の様子](img/3.gif)
